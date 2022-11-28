@@ -69,15 +69,13 @@ void loop() {
   Serial.setTimeout(2000);
   
   // MQTT can only transmit strings
-  String hs="Hum: "+String((float)h)+" % ";
-  String ts="Temp: "+String((float)t)+" C ";
 
   pinStatePrevious = pinStateCurrent; // store old state
   pinStateCurrent = digitalRead(PIN_TO_SENSOR);   // read new state
 
   
   if (pinStatePrevious == LOW && pinStateCurrent == HIGH) {   // pin state change: LOW -> HIGH
-    if (client.publish("Motion Detected"") {
+    if (client.publish("Motion Detected") {
     Serial.println("Motion sent!");
   else {
     Serial.println("Motion failed to send. Reconnecting to MQTT Broker and trying again");
