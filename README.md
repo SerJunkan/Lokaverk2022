@@ -6,9 +6,9 @@
  -[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Bathroom%20Sensor%20Network%20Diagram.png)
 
 <h1>Efnislisti</h1>
-  <ul>1x - ESP32</ul>
-  <ul>1x - Raspberry Pi zero</ul>
-  <ul>1x - Pir Hreyfiskynjari</ul>
+  <ul>1x - <a href="https://randomnerdtutorials.com/getting-started-with-esp32/">ESP-32</a></ul>
+  <ul>1x - <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/">Raspberry Pi zero</a> en flestir raspi ættu að virka</ul>
+  <ul>1x - <a href="https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/how-pirs-work">Pir Hreyfiskynjari</a></ul>
   <ul>1x - <a href="https://www.electroschematics.com/arduino-i2c-lcd-backpack-introductory-tutorial/">l2c lcd skjár með backpack</a> </ul>
   <ul>2x - breadboard</ul>
   <ul>1x - LED</ul>
