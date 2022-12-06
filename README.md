@@ -8,8 +8,10 @@ https://esp32io.com/tutorials/esp32-motion-sensor
 https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/#:~:text=Connecting%20an%20I2C%20Enabled%20LCD&text=Connect%20the%20SDA%20pin%20on,of%20the%20Pi%20if%20possible.
 
 <h1>Efnislisti</h1>
--1x ESP32
--1x Raspberry Pi zero
--1x Pir Hreyfiskynjari
--1x l2c lcd skjár
--2x breadboard
+<li>
+  <ul>1x ESP32</ul>
+  <ul>1x Raspberry Pi zero</ul>
+  <ul>1x Pir Hreyfiskynjari</ul>
+  <ul>1x l2c lcd skjár</ul>
+  <ul>2x breadboard</ul>
+</li>
