@@ -9,6 +9,7 @@
   <ul>1x - Raspberry Pi zero</ul>
   <ul>1x - Pir Hreyfiskynjari</ul>
   <ul>1x - [l2c lcd skjár með backpack].(https://www.electroschematics.com/arduino-i2c-lcd-backpack-introductory-tutorial/) </ul>
+  <ul>[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Bathroom%20Sensor%20Network%20Diagram.png)</ul>
   <ul>2x - breadboard</ul>
   <ul>1x - LED</ul>
 
