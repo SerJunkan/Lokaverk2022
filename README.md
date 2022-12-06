@@ -1,14 +1,14 @@
 # Lokaverk2022
 
 
-# [Rafrásarteikning](https://github.com/SerJunkan/Lokaverk2022/blob/main/circuit%20diagram%20toilet%20sensor.png)
+ [Rafrásarteikning](https://github.com/SerJunkan/Lokaverk2022/blob/main/circuit%20diagram%20toilet%20sensor.png)
  [Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Bathroom%20Sensor%20Network%20Diagram.png)
 
 <h1>Efnislisti</h1>
   <ul>1x - ESP32</ul>
   <ul>1x - Raspberry Pi zero</ul>
   <ul>1x - Pir Hreyfiskynjari</ul>
-  <ul>1x - l2c lcd skjár</ul>
+  <ul>1x - [l2c lcd skjár með backpack](https://www.electroschematics.com/arduino-i2c-lcd-backpack-introductory-tutorial/) </ul>
   <ul>2x - breadboard</ul>
   <ul>1x - LED</ul>
 
