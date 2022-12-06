@@ -6,10 +6,10 @@ const char* ssid = "TskoliVESM";                 // Vesm SSID
 const char* wifi_password = "Fallegurhestur"; // Vesm password
 
 const char* mqtt_server = "10.201.48.79";  // IP of the MQTT broker
-const char* bathroom_topic = "home/bathroom/status";
-const char* mqtt_username = "esp123"; // MQTT username
-const char* mqtt_password = "esp123"; // MQTT password
-const char* clientID = "esp32"; // MQTT client ID
+const char* bathroom_topic = "home/bathroom/status"; // Ekki notað
+const char* mqtt_username = "username"; // MQTT username
+const char* mqtt_password = "password"; // MQTT password
+const char* clientID = "clientID"; // MQTT client ID
 
 
 const int PIN_TO_SENSOR = 18; // GIOP18 pin connected to OUTPUT pin of sensor
