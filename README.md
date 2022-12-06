@@ -13,3 +13,7 @@ https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/#:~:te
   <ul>1x - Pir Hreyfiskynjari</ul>
   <ul>1x - l2c lcd skjár</ul>
   <ul>2x - breadboard</ul>
+
+<h1>Samsettning</h1>
+<h3>ESP32</h3>
+<p>Ég byrjaði að tengja PIR skynjaran við ESP32 á breadboardi. GND fer í GND, VCC fer í 5V og OUT fer í GPIO18.</p>
