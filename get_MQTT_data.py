@@ -51,10 +51,10 @@ def on_message(client, userdata, msg):
             mylcd.lcd_display_string(str_pad,1)
             mylcd.lcd_display_string("Time: %s" %time.strftime("%H:%M:%S"), 2) #displaying time in Hours/Min/Secs 
         
-        if counter >= 5: #counter in use so user isisnt spammed with notifacations
+        if counter >= 5: #counter in use so user isisnt spammed with notifications
             print("notification sent")
             requests.post('https://maker.ifttt.com/trigger/[OPERATION NAME]/with/key/[INSERT YOUR KEY HERE]') 
-            counter = 0 # using iftt to send notifacation to users phone whether or not Bathroom is available
+            counter = 0 # using iftt to send notifacation to users phone whether or not Bathroom is available NOTE:do not use the brackets []
     else:
         print("LED off")
         GPIO.output(18,GPIO.LOW)
