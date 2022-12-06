@@ -13,6 +13,7 @@ https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/#:~:te
   <ul>1x - Pir Hreyfiskynjari</ul>
   <ul>1x - l2c lcd skjár</ul>
   <ul>2x - breadboard</ul>
+  <ul>1x - LED</ul>
 
 <h1>Samsettning</h1>
 <h3>ESP32</h3>
