@@ -40,6 +40,9 @@ að lokum var counter einnig nýttur til að leysa vandamálið með því að b
   <ul><a href="https://pypi.org/project/RPi.GPIO/">Requests</a></ul>
   <ul><a href="https://docs.python.org/3/library/time.html">Time</a></ul>
 
+# Video af Virkni
+
+  <ul><a href="https://www.youtube.com/watch?v=2kEzo9OSSBE">Bathroom Sensor Lokaverk 2022</a></ul>
 
 # Myndir af Tengingum
 
