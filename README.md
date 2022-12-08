@@ -17,7 +17,7 @@
  
  -[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Main%20Network%20Diagram.png)
 
-<h1>Samsettning</h1>
+<h1>Samsetning</h1>
 <h3>ESP32</h3>
 <p>Við byrjuðum á að tengja PIR skynjaran við ESP32 með breadboardi. [GND fer í GND | VCC fer í 5V | OUT fer í GPIO18].</p>
 <p>Svo fórum við beint í að skrifa kóðan fyrir MQTT tengingu, sem má sjá <a href="https://github.com/SerJunkan/Lokaverk2022/blob/main/esp32_publisher.ino">hér</a>.</p>
