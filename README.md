@@ -28,6 +28,7 @@
   
 <h3>Söfn notuð í RAPSPI kóða</h3>
   <ul><a href="https://pypi.org/project/paho-mqtt/">Paho-MQTT</a></ul>
+  <ul><a href="https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/#:~:text=Connecting%20an%20I2C%20Enabled%20LCD&text=Connect%20the%20SDA%20pin%20on,of%20the%20Pi%20if%20possible."> I2C_LCD_driver</a> Note!: það þarf að setja kóða sem hægt er að finna í hlekk á sama stað og py file á rasberri</ul>
 
 
 # Myndir af Tengingum
