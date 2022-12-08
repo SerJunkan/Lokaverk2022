@@ -33,6 +33,11 @@
 # Myndir af Tengingum
 
 ![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging1.jpg)
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging2.jpg)
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging3.jpg)
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging4.jpg)
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging5.jpg)
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging6.jpg)
 
 
 # Bjargir sem við nýttumst við
