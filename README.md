@@ -43,6 +43,7 @@ að lokum var counter einnig nýttur til að leysa vandamálið með því að b
 # Video af Virkni
 
   <ul><a href="https://www.youtube.com/watch?v=2kEzo9OSSBE">Bathroom Sensor Lokaverk 2022</a></ul>
+  <p>Note það eru annsi mikil hávað í myndbandi og það sést meira á I2C LCD skjá en sjést á Myndavél </p>
 
 # Myndir af Tengingum
 
