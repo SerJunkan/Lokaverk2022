@@ -11,7 +11,7 @@
   
 
   <h2>Skýringamyndir fyrir Rafrásir og Nettengingar</h2>
- -
+  
       
  -[Rafrásarteikning](https://github.com/SerJunkan/Lokaverk2022/blob/main/circuit%20diagram%20toilet%20sensor.png)
  
