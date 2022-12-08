@@ -30,6 +30,9 @@
   
 
 
+# Myndir af Tengingum
+
+![alt text](https://github.com/SerJunkan/Lokaverk2022/blob/main/connections/Tenging1.jpg)
 
 
 # Bjargir sem við nýttumst við
