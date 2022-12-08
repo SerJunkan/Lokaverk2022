@@ -11,13 +11,11 @@
   
 
   <h2>Skýringamyndir fyrir Rafrásir og Nettengingar</h2>
-      -
+ -
       
  -[Rafrásarteikning](https://github.com/SerJunkan/Lokaverk2022/blob/main/circuit%20diagram%20toilet%20sensor.png)
  
  -[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Main%20Network%20Diagram.png)
-      
-      -
 
 <h1>Samsettning</h1>
 <h3>ESP32</h3>
