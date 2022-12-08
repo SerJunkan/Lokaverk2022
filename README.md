@@ -22,9 +22,11 @@
 <p>Við byrjuðum á að tengja PIR skynjaran við ESP32 með breadboardi. [GND fer í GND | VCC fer í 5V | OUT fer í GPIO18].</p>
 <p>Svo fórum við beint í að skrifa kóðan fyrir MQTT tengingu, sem má sjá <a href="https://github.com/SerJunkan/Lokaverk2022/blob/main/esp32_publisher.ino">hér</a>.</p>
 <p>við lentum ekki í miklu veseni með Esp annað en eitt atvik af stilla upload speed og í lokinn þegar við þurftum að viljandi hægja á kóðanum þarsem for lykkjurnar í rassberry hægðu rosa mikið á kóðanum, sem gerði það að verkum að Raspi var "overloaded" af ESP og tók alltaf lengri tíma til að höndla Satus gönin sem Esp var að senda inn (svo ef þú villt hafa hraðann kóða losnaðu bara við for loopin)</p>
-<p>við lentum hinsvegar í ansi mikklu veseni varðandi PIR skynjarann þarsem það þurfti að Fínstylla hann (bæði refresh rate og signal lenght) ásamt því að annar skynjarinn virkaði spes af einhverjum ástæðum en að enda reddaðist það og skynjarinn virkaði einsog ætlað.</p>
+<p>við lentum hinsvegar í ansi mikklu veseni varðandi PIR skynjarann þarsem það þurfti að Fínstylla hann (bæði refresh rate og signal lenght) ásamt því að annar skynjarinn virkaði spes af einhverjum ástæðum, en að enda reddaðist það og skynjarinn virkaði einsog ætlað.</p>
 
 <h3>RasberryPi-Zero</h3>
+<p>Raspi var með aðeins meiri erfiðleika þarsem vegna Netárásar á önn voru ip adressin oft eydd/nýtt svo við lentum í a.m.k. 5-6 atvikum þarsem ip á rasberry breyttist og þurft var að finna rasberry og breyta ip á kóða hjá ESP & Raspi. Einnig Lentum við í smá Encoding Veseni þarsem Python í raspi gat ekki lesið Encoded C++ string en hægt er að sjá einfalda .decode() lausn okkar í línu 39 í py file. Einnig Lentum við í vandræðum með I2C LCD þarsem það þurfti að fínstylla hann svipað PIR en einnig vann hann ekki nógu og hratt og var upprunulega ætlað (mælum með betri skjá í næstu sinn) og þurft var að hægja á kóðanum u.þ.b. sjöfalt svo hægt væri að nota LCDinn með ESP. Einnig eru flest "order of operation" vandamál leyst með counter variable (Note þarf að nota [global] í falli til að ná variable utann frá falli). Einnig var counter nýttur til að senda bara tilkynningar við ákveðinn states til að leysa það að vera "spammed" af tilkynningum um hvort baðherbergi væri laust eða ekki.
+að lokum var counter einnig nýttur til að leysa vandamálið með því að bæta tegund af "delay" til að leysa vandamálið af "ef einhver er á klósettinu 100% kjurr" svo Raspi myndi ekki bara segja "Bathroom Available"</p>
 
 
 <h3>Söfn notuð í ESP-32 kóða</h3>
