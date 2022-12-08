@@ -3,7 +3,7 @@
 
  -[Rafrásarteikning](https://github.com/SerJunkan/Lokaverk2022/blob/main/circuit%20diagram%20toilet%20sensor.png)
  
- -[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Bathroom%20Sensor%20Network%20Diagram.png)
+ -[Bathroom Network](https://github.com/SerJunkan/Lokaverk2022/blob/main/Main%20Network%20Diagram.png)
 
 <h1>Efnislisti</h1>
   <ul>1x - <a href="https://randomnerdtutorials.com/getting-started-with-esp32/">ESP-32</a></ul>
