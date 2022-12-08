@@ -27,7 +27,7 @@
   <ul><a href="https://www.arduino.cc/reference/en/libraries/wifi/">Wifi</a></ul>
   
 <h3>Söfn notuð í RAPSPI kóða</h3>
-  
+  <ul><a href="https://pypi.org/project/paho-mqtt/">Paho-MQTT</a></ul>
 
 
 # Myndir af Tengingum
